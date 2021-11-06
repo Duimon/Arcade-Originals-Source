@@ -1,5 +1,3 @@
-# Arcade-Originals-Source
-Source files for my Arcade Originals repo.
 ### LICENSE
 *******************
 All the assets, including documentation and code, are published under the 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)' Creative Commons license.
